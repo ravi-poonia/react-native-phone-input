@@ -1,3 +1,0 @@
-rootProject.name = 'CustomLibraryPicker'
-
-include ':app'

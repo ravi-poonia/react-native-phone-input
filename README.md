@@ -10,7 +10,6 @@ Phone input box for React Native
 
 ```
 npm i react-native-phone-input --save
-npm install @react-native-community/picker --save
 ```
 
 ## Basic Usage
